@@ -13,7 +13,7 @@ Porém, nem todos os endpoints estarão funcionais ao usar este método, por est
 Para o desenvolvimento do desafio fiz integração com o twillio para notificações SMS por este motivo quando for rodar localmente será necessário algumas alterações:
 ### Passo 1 
 
-Será necessário de uma conta criada no Twillio e utilizar as sua credencias <br>
+Será necessário de uma conta criada no Twillio e utilizar as sua credenciais <br>
 ![image](https://github.com/robertogsl/Backend-Java-Repo/assets/61751830/3f0ab4df-12c1-44ae-a7f9-e59faed62a12) <br>
 na application.properties do projeto como no exemplo <br>
 ![image](https://github.com/robertogsl/Backend-Java-Repo/assets/61751830/2dc754e6-4153-4824-bdc5-6cf23d5b3125)
